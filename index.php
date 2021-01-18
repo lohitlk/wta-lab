@@ -13,7 +13,7 @@
   <?php include 'topbar.php' ?>
   <?php include 'sidebar.php' ?>
 
-  <div class="content-wrapper  bg-dark">
+  <div class="content-wrapper" style="background-image: radial-gradient(circle at center center, transparent,rgb(0,0,0)),linear-gradient(87deg, rgba(80, 80, 80,0.05) 0%, rgba(80, 80, 80,0.05) 50%,rgba(6, 6, 6,0.05) 50%, rgba(6, 6, 6,0.05) 100%),linear-gradient(105deg, rgba(26, 26, 26,0.05) 0%, rgba(26, 26, 26,0.05) 50%,rgba(155, 155, 155,0.05) 50%, rgba(155, 155, 155,0.05) 100%),linear-gradient(212deg, rgba(130, 130, 130,0.05) 0%, rgba(130, 130, 130,0.05) 50%,rgba(81, 81, 81,0.05) 50%, rgba(81, 81, 81,0.05) 100%),linear-gradient(139deg, rgba(65, 65, 65,0.05) 0%, rgba(65, 65, 65,0.05) 50%,rgba(181, 181, 181,0.05) 50%, rgba(181, 181, 181,0.05) 100%),linear-gradient(331deg, rgba(8, 8, 8,0.05) 0%, rgba(8, 8, 8,0.05) 50%,rgba(120, 120, 120,0.05) 50%, rgba(120, 120, 120,0.05) 100%),linear-gradient(117deg, rgba(135, 135, 135,0.05) 0%, rgba(135, 135, 135,0.05) 50%,rgba(63, 63, 63,0.05) 50%, rgba(63, 63, 63,0.05) 100%),radial-gradient(circle at center center, hsl(127,1%,24%),hsl(127,1%,24%));">
   	 <div class="toast" id="alert_toast" role="alert" aria-live="assertive" aria-atomic="true">
 	    <div class="toast-body text-white">
 	    </div>

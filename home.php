@@ -1,9 +1,10 @@
 <?php include('db_connect.php') ?>
 <!-- Info boxes -->
-        <div class="row">
+        <div class="row" style="">
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-th-list text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-th-list" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+</i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">Total Genres</span>
@@ -18,7 +19,7 @@
           
            <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-music text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-music" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"></i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">Total Musics</span>
@@ -33,7 +34,7 @@
           
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-list text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-list" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"></i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">Total Playlist</span>
@@ -47,7 +48,7 @@
           </div>
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-users text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-users" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"></i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">Total Users</span>
@@ -61,7 +62,7 @@
           </div>
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-music text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-music" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"></i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">My Musics</span>
@@ -76,7 +77,7 @@
         
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
-              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-list text-gradient-primary"></i></span>
+              <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-list" style="background: -webkit-linear-gradient(90deg, #FEE140 0%, #FA709A 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"></i></span>
 
               <div class="info-box-content">
                 <span class="info-box-text">My Playlist</span>

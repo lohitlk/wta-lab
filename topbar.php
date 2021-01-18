@@ -1,5 +1,5 @@
 
-  <nav class="main-header navbar navbar-expand navbar-primary navbar-dark bg-dark border-primary">
+  <nav class="main-header navbar navbar-expand navbar-primary navbar-dark bg-dark border-light">
   
     <ul class="navbar-nav">
       <?php if(isset($_SESSION['login_id'])): ?>
@@ -11,7 +11,7 @@
        <a ></a>
       </li>
       <li>
-        <a class="nav-link text-gradient-primary"  href="./" role="button"> <large><b><b><i><u>'Ditty'</u></i></b> one place for all your FEELINGS</b></large></a>
+        <a class="nav-link"  href="./" role="button" style="background: -webkit-linear-gradient(60deg, #21D4FD 0%, #B721FF 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;"> <large><b><b><i style="background: -webkit-linear-gradient(100deg, #FF00FF, #66FF00); -webkit-background-clip: text;-webkit-text-fill-color: transparent;">'Ditty'</i></b> one place for all your FEELINGS</b></large></a>
       </li>
     </ul>
 
